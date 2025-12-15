@@ -46,6 +46,5 @@ Name
 Email
 Donation amount
 
-Message (optional)
-
-Form submission is handled using JavaScript (client-side).
+🙌 Acknowledgements
+Inspired by real dog rescue and donation platforms to promote kindness and awareness.
